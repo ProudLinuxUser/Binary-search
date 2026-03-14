@@ -1,2 +1,2 @@
 # Binary-search
-Silly little algorithm
+Great little algorithm
